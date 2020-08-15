@@ -1,0 +1,53 @@
+{"list":[
+    {
+      "name":"Vicente Lopez",
+      "provincia":"Buenos Aires",
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "colegios":21,
+      
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"CABA",
+      "provincia":"Buenos Aires",
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "colegios":21,
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"San Isidro",
+      "provincia":"Buenos Aires",
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "colegios":21,
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Olivos",
+      "provincia":"Buenos Aires",
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "colegios":21,
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Belgrano",
+      "provincia":"Buenos Aires",
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "colegios":21,
+      "id":"jsef-21vsf-q3fb-34sr"
+    }
+  ],
+"mainInfo":{
+  "mostDocentes":{"name":"Colegio Saint Luke","number":126},
+  "mostColegios":{"name":"CABA","number":23},
+  "mostAlumnos":{"name":"CABA","number":341}
+}}

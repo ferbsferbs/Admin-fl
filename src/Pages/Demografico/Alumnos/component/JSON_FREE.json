@@ -1,0 +1,48 @@
+{"list":[
+    {
+      "name":"Eduardo Lopez",
+      "localidad":"Buenos Aires",
+      "colegio":"Saint Luke",
+      "aulas":13,
+      "alumnos":211,
+      
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Mariano Franchesco",
+      "localidad":"Buenos Aires",
+      "colegio":"Saint Luke",
+      "aulas":13,
+      "alumnos":211,
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Fernando Ignacio",
+      "localidad":"Buenos Aires",
+      "colegio":"Saint Luke",
+      "aulas":13,
+      "alumnos":211,
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Bautista Gonzalez",
+      "localidad":"Buenos Aires",
+      "colegio":"Saint Luke",
+      "aulas":13,
+      "alumnos":211,
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Valentina Lopes",
+      "localidad":"Buenos Aires",
+      "colegio":"Saint Luke",
+      "aulas":13,
+      "alumnos":211,
+      "id":"jsef-21vsf-q3fb-34sr"
+    }
+  ],
+"mainInfo":{
+  "totalAlumnos":{"number":1345},
+  
+  "totalDocentes":{"number":341}
+}}

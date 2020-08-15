@@ -1,0 +1,48 @@
+{"list":[
+    {
+      "name":"Colegio Saint Luke",
+      "localidad":"Buenos Aires, CABA",
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Colegio Saint Luke",
+      "localidad":"Buenos Aires, CABA",
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Colegio Saint Luke",
+      "localidad":"Buenos Aires, CABA",
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Colegio Saint Luke",
+      "localidad":"Buenos Aires, CABA",
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Colegio Saint Luke",
+      "localidad":"Buenos Aires, CABA",
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "id":"jsef-21vsf-q3fb-34sr"
+    }
+  ],
+"mainInfo":{
+  "mostDocentes":{"name":"Colegio Saint Luke","number":126},
+  "mostAulas":{"name":"Colegio Saint Luke","number":23},
+  "mostAlumnos":{"name":"Colegio Saint Luke","number":44}
+}}

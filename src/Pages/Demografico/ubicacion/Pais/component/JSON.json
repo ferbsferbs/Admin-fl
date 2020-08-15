@@ -1,0 +1,32 @@
+{"list":[
+    {
+      "name":"Argentina",
+      "colegios":14,
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"España",
+      "colegios":14,
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "id":"jsef-21vsf-q3fb-34sr"
+    },
+    {
+      "name":"Brasil",
+      "colegios":14,
+      "docentes":12,
+      "aulas":13,
+      "alumnos":211,
+      "id":"jsef-21vsf-q3fb-34sr"
+    }
+  ],
+"mainInfo":{
+  "cantidadDePaises":{"number":3},
+  "escuelasMundo":{"number":43},
+  "totalAlumnos":{"number":440}
+}}
